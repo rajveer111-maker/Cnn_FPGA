@@ -1,0 +1,18 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+C:/Users/Rajveer/CNN/cnn/cnn.sim/sim_1/behav/glbl.v,1497407496,verilog,,,,glbl,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_1.v,1591856353,verilog,,,,Layer_1,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_2.v,1591856353,verilog,,,,Layer_2,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_3.v,1591856353,verilog,,,,Layer_3,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_4.v,1591856353,verilog,,,,Layer_4,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Sig_ROM.v,1591856353,verilog,,,,Sig_ROM,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/Weight_Memory.v,1591856353,verilog,,,F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,Weight_Memory,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/axi_lite_wrapper.v,1591856353,verilog,,,,axi_lite_wrapper,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,1591856353,verilog,,,,,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/maxFinder.v,1591856353,verilog,,,,maxFinder,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/neuron.v,1591856353,verilog,,,F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,neuron,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/relu.v,1591856353,verilog,,,,ReLU,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/zynet.v,1591856353,verilog,,,F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,zyNet,,,,,,,,
+F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/tb/top_sim.v,1591856353,verilog,,,F:/Codes_files/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,top_sim,,,,,,,,
